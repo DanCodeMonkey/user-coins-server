@@ -9,3 +9,11 @@ Endpoints disponíveis:
 
 POST /users → cria um usuário
 GET /users/:id/coins → consulta saldo de moedas
+
+GRUPO KIDCOIN:
+Daniel Fernando
+Gabriel Pozza
+Guilherme Nobrega
+Gustavo Polaino
+Camila Queiroz
+Wesley Fernando
